@@ -1,4 +1,4 @@
-﻿namespace Models.File;
+﻿namespace NightCloud.Common.QueueMessaging.File;
 
 public interface RetrieveFileResult
 {

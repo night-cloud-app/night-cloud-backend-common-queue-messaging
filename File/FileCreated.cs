@@ -1,4 +1,4 @@
-﻿namespace QueueMessaging.File;
+﻿namespace NightCloud.Common.QueueMessaging.File;
 
 public interface FileCreated
 {
